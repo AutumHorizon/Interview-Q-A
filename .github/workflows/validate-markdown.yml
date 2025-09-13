@@ -24,12 +24,10 @@ jobs:
         cache: 'npm'
     
     - name: 📦 Install Dependencies
-      run: |
-        npm install -g markdownlint-cli2
+      run: npm ci
         
     - name: 🧪 Lint Markdown Files
-      run: |
-        markdownlint-cli2 "**/*.md" "#node_modules"
+      run: npm run lint:markdown
         
     - name: ✅ Validate Links
       uses: gaurav-nelson/github-action-markdown-link-check@v1
