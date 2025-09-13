@@ -1,3 +1,9 @@
+---
+title: 🗂️ Active Directory Q&A
+layout: default
+---
+
+
 # 🗂️ Active Directory Q&A
 
 A collection of commonly asked Active Directory interview questions and answers.
