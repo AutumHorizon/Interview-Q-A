@@ -5,7 +5,7 @@
 
 ## Difficulty Level
 - [ ] Easy
-- [ ] Medium  
+- [ ] Medium
 - [ ] Hard
 
 ## Company

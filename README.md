@@ -44,9 +44,8 @@ I welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIB
 
 ## 📚 Additional Resources
 
+- [Interview Preparation Resources](Resources/README.md)
 - [Interview Preparation Checklist](Resources/preparation-checklist.md)
-- [Common Mistakes to Avoid](Resources/common-mistakes.md)
-- [Recommended Books and Courses](Resources/recommended-reading.md)
 
 ## 🔗 Connect With Me
 

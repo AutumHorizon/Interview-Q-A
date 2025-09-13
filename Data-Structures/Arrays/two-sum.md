@@ -9,7 +9,7 @@ You can return the answer in any order.
 
 ## Difficulty Level
 - [x] Easy
-- [ ] Medium  
+- [ ] Medium
 - [ ] Hard
 
 ## Company
@@ -45,27 +45,27 @@ Check every pair of numbers to see if they sum to the target.
 def two_sum(nums, target):
     """
     Find two numbers in array that sum to target
-    
+
     Args:
         nums: List of integers
         target: Target sum
-        
+
     Returns:
         List of two indices
     """
     # Hash map to store number -> index mapping
     seen = {}
-    
+
     for i, num in enumerate(nums):
         complement = target - num
-        
+
         # Check if complement exists in our seen numbers
         if complement in seen:
             return [seen[complement], i]
-        
+
         # Store current number and its index
         seen[num] = i
-    
+
     # This shouldn't happen given the problem constraints
     return []
 
@@ -103,17 +103,17 @@ def two_sum_sorted(nums, target):
     Two-pointer approach for sorted array
     """
     left, right = 0, len(nums) - 1
-    
+
     while left < right:
         current_sum = nums[left] + nums[right]
-        
+
         if current_sum == target:
             return [left, right]
         elif current_sum < target:
             left += 1
         else:
             right -= 1
-    
+
     return []
 ```
 

@@ -10,7 +10,7 @@ This section covers system design questions commonly asked in senior-level techn
 - Content management systems
 - Real-time chat applications
 
-### Data-Heavy Systems  
+### Data-Heavy Systems
 - Analytics platforms
 - Data pipelines
 - Search engines
@@ -24,7 +24,7 @@ This section covers system design questions commonly asked in senior-level techn
 
 ### Specific System Types
 - URL shorteners
-- File storage systems  
+- File storage systems
 - Notification systems
 - Payment systems
 
