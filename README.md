@@ -9,6 +9,7 @@ preparation videos, designed to help viewers learn and prepare for technical int
 Interview-Q-A/
 ├── Programming/           # Programming language specific Q&A
 ├── System-Design/         # System design interview questions
+├── System-Administration/ # Infrastructure and sysadmin questions
 ├── Data-Structures/       # Data structure related questions
 ├── Algorithms/           # Algorithm problems and solutions
 ├── Behavioral/           # Behavioral interview questions
