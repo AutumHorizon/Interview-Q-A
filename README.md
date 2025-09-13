@@ -24,10 +24,10 @@ This repository serves as a centralized resource for:
 
 Currently available interview topics and question sets:
 
-| Topic | Questions | Status | Last Updated |
-|-------|-----------|--------|--------------|
-| **Active Directory** | 20+ Questions | ✅ Complete | 2025 |
-| *More topics coming soon...* | | 🚧 In Progress | |
+| Topic | Questions | Status | Last Updated | Visit the page |
+|-------|-----------|--------|--------------| -------------- |
+| **Active Directory** | 20+ Questions | ✅ Complete | 2025 | (Active Directory – Top 20 Interview Questions with Answers (2025).md) |
+| *More topics coming soon...* | | 🚧 In Progress | | |
 
 ### 🔍 Topic Coverage Areas
 - **Infrastructure & Systems**: Active Directory, DNS, DHCP, Windows Server
