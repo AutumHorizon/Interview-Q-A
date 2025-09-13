@@ -84,6 +84,7 @@ Please use the following template when submitting new questions:
 Place files in the appropriate category:
 - **Programming/**: Language-specific questions (Python/, Java/, JavaScript/, etc.)
 - **System-Design/**: Architecture and system design questions
+- **System-Administration/**: Infrastructure, networking, security, cloud platforms
 - **Data-Structures/**: Array, LinkedList, Tree, Graph problems
 - **Algorithms/**: Sorting, searching, dynamic programming
 - **Behavioral/**: Non-technical interview questions
