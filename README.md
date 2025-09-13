@@ -26,8 +26,7 @@ Currently available interview topics and question sets:
 
 | Topic | Questions | Status | Last Updated | Visit the page |
 |-------|-----------|--------|--------------| -------------- |
-| **Active Directory** | 20+ Questions | ✅ Complete | 2025 | [Visit the About page]
-(Active Directory – Top 20 Interview Questions with Answers (2025).md) |
+| **Active Directory** | 20+ Questions | ✅ Complete | 2025 | [Visit the About page] (Active Directory – Top 20 Interview Questions with Answers (2025).md) |
 | *More topics coming soon...* | | 🚧 In Progress | | |
 
 ### 🔍 Topic Coverage Areas
