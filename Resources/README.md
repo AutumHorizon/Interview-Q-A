@@ -91,7 +91,8 @@ This section contains additional resources to help with interview preparation.
 ## 📊 Tracking Progress
 
 ### Study Log Template
-```
+
+```text
 Date: [Date]
 Topic: [What you studied]
 Time Spent: [Hours]
