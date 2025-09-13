@@ -1,0 +1,66 @@
+* text=auto eol=lf
+
+# Markdown files
+*.md text
+
+# Documentation
+*.txt text
+*.rtf text
+
+# Code files
+*.js text
+*.py text
+*.java text
+*.cpp text
+*.c text
+*.h text
+*.hpp text
+*.cs text
+*.php text
+*.rb text
+*.go text
+*.rs text
+*.sql text
+*.json text
+*.xml text
+*.html text
+*.css text
+*.scss text
+*.sass text
+
+# Configuration files
+*.yaml text
+*.yml text
+*.ini text
+*.cfg text
+*.conf text
+*.toml text
+
+# Shell scripts
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Batch files
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Images
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.rar binary
+
+# Videos (though excluded in .gitignore)
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.mkv binary
