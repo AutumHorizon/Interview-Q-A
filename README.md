@@ -1,10 +1,11 @@
 # Interview Q&A Repository 🎥
 
-Welcome to my Interview Q&A collection! This repository contains questions and answers from my interview preparation videos, designed to help viewers learn and prepare for technical interviews.
+Welcome to my Interview Q&A collection! This repository contains questions and answers from my interview
+preparation videos, designed to help viewers learn and prepare for technical interviews.
 
 ## 📁 Repository Structure
 
-```
+```text
 Interview-Q-A/
 ├── Programming/           # Programming language specific Q&A
 ├── System-Design/         # System design interview questions
@@ -26,6 +27,7 @@ Interview-Q-A/
 ## 📝 Question Format
 
 Each question follows this structure:
+
 - **Question**: The interview question
 - **Difficulty Level**: Easy/Medium/Hard
 - **Company**: Where this was asked (if applicable)
@@ -37,6 +39,7 @@ Each question follows this structure:
 ## 🤝 Contributing
 
 I welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+
 - Submitting new questions
 - Improving existing answers
 - Reporting issues
@@ -44,9 +47,8 @@ I welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIB
 
 ## 📚 Additional Resources
 
+- [Interview Preparation Resources](Resources/README.md)
 - [Interview Preparation Checklist](Resources/preparation-checklist.md)
-- [Common Mistakes to Avoid](Resources/common-mistakes.md)
-- [Recommended Books and Courses](Resources/recommended-reading.md)
 
 ## 🔗 Connect With Me
 
@@ -61,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⭐ Support
 
 If this repository helps you in your interview preparation:
+
 - Give it a ⭐ star
 - Share it with friends
 - Subscribe to my YouTube channel

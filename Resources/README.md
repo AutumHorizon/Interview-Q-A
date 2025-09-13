@@ -37,7 +37,7 @@ This section contains additional resources to help with interview preparation.
 ### 30-Day Coding Interview Prep
 - Week 1: Arrays, Strings, Linked Lists
 - Week 2: Trees, Graphs, Sorting
-- Week 3: Dynamic Programming, Greedy Algorithms  
+- Week 3: Dynamic Programming, Greedy Algorithms
 - Week 4: System Design, Behavioral Questions
 
 ### System Design Study Plan
@@ -68,7 +68,7 @@ This section contains additional resources to help with interview preparation.
 - [ ] Prepare questions to ask interviewer
 - [ ] Research company and team
 
-### Day of Interview  
+### Day of Interview
 - [ ] Get good night's sleep
 - [ ] Eat a proper meal
 - [ ] Test technology setup (for remote)
@@ -91,7 +91,8 @@ This section contains additional resources to help with interview preparation.
 ## 📊 Tracking Progress
 
 ### Study Log Template
-```
+
+```text
 Date: [Date]
 Topic: [What you studied]
 Time Spent: [Hours]

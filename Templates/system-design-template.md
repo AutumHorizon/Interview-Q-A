@@ -42,7 +42,7 @@ CREATE TABLE users (
 ```
 
 ### API Design
-```
+```http
 GET /api/v1/[resource]
 POST /api/v1/[resource]
 PUT /api/v1/[resource]/{id}

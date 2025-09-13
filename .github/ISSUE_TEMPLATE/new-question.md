@@ -8,7 +8,7 @@ assignees: ''
 
 ## Question Details
 
-**Question Title:** 
+**Question Title:**
 [Provide a clear, descriptive title]
 
 **Question Text:**

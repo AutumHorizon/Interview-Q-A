@@ -1,0 +1,24 @@
+{
+  // Markdownlint configuration for Interview Q&A repository
+  "config": {
+    // Line length - be more lenient for long URLs and technical content
+    "MD013": {
+      "line_length": 200,
+      "heading_line_length": 250,
+      "code_block_line_length": false,
+      "tables": false
+    },
+    // Allow multiple top-level headings (common in Q&A format)
+    "MD025": false,
+    // Be less strict about blank lines around lists in documentation
+    "MD032": false,
+    // Be less strict about blank lines around headings in Q&A format
+    "MD022": false,
+    // Be less strict about blank lines around fenced code blocks
+    "MD031": false,
+    // Allow trailing punctuation in headings for Q&A format
+    "MD026": false,
+    // Allow empty links (may be placeholders for video links)
+    "MD042": false
+  }
+}

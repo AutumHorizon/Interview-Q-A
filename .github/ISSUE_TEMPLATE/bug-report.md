@@ -20,14 +20,14 @@ assignees: ''
 ## Current Content
 [Copy the incorrect content here]
 
-```
+```text
 [Paste the current content that needs fixing]
 ```
 
 ## Suggested Fix
 [Provide the corrected version]
 
-```
+```text
 [Paste your suggested correction here]
 ```
 

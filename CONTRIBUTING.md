@@ -98,7 +98,7 @@ Place files in the appropriate category:
 5. **Respond to feedback** from maintainers if any changes are requested
 
 ### Pull Request Template
-```
+```markdown
 ## Type of Contribution
 - [ ] New question
 - [ ] Improved answer

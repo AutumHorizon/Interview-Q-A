@@ -6,7 +6,7 @@ This section contains programming questions organized by language and general pr
 
 ### By Programming Language
 - **Python/** - Python-specific questions and implementations
-- **Java/** - Java-specific questions and implementations  
+- **Java/** - Java-specific questions and implementations
 - **JavaScript/** - JavaScript and web development questions
 - **C++/** - C++ specific questions and implementations
 - **Go/** - Go language questions
@@ -28,7 +28,7 @@ This section contains programming questions organized by language and general pr
 ## 🎯 Common Topics
 
 - String manipulation and parsing
-- Array and list operations  
+- Array and list operations
 - Error handling and edge cases
 - Memory management
 - Performance optimization
