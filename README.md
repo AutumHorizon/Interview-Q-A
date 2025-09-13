@@ -1,133 +1,71 @@
-# 📚 Interview Q&A Repository
+# Interview Q&A Repository 🎥
 
-A comprehensive collection of technical interview questions and answers to help you prepare for your next job interview. This repository covers various technical domains with detailed explanations and practical examples.
+Welcome to my Interview Q&A collection! This repository contains questions and answers from my interview preparation videos, designed to help viewers learn and prepare for technical interviews.
 
-## 🎯 Purpose
-
-This repository serves as a centralized resource for:
-- **Job Seekers**: Prepare for technical interviews across different domains
-- **Interviewers**: Reference material for conducting technical interviews  
-- **Students**: Learn core concepts with practical examples
-- **Professionals**: Quick reference for technical concepts and best practices
-
-## 📖 Table of Contents
-
-- [Available Topics](#-available-topics)
-- [How to Use](#-how-to-use)
-- [Contributing](#-contributing)
-- [Structure](#-structure)
-- [Getting Started](#-getting-started)
-- [Contact](#-contact)
-- [License](#-license)
-
-## 🗂️ Available Topics
-
-Currently available interview topics and question sets:
-
-| Topic | Questions | Status | Last Updated | Visit the page |
-|-------|-----------|--------|--------------| -------------- |
-| **Active Directory** | 20+ Questions | ✅ Complete | 2025 | [Visit the About page] (Active Directory – Top 20 Interview Questions with Answers (2025).md) |
-| *More topics coming soon...* | | 🚧 In Progress | | |
-
-
-[Visit the About page] (Active Directory – Top 20 Interview Questions with Answers (2025).md)
-### 🔍 Topic Coverage Areas
-- **Infrastructure & Systems**: Active Directory, DNS, DHCP, Windows Server
-- **Cloud Technologies**: Azure, AWS, GCP (Coming Soon)
-- **Security**: Authentication, Authorization, Best Practices (Coming Soon)  
-- **Networking**: TCP/IP, VLANs, Routing (Coming Soon)
-- **Development**: Programming concepts, APIs (Coming Soon)
-
-## 🚀 How to Use
-
-### For Job Seekers
-1. Browse the topics relevant to your target role
-2. Study the questions and understand the detailed answers
-3. Practice explaining concepts in your own words
-4. Focus on scenario-based questions for real-world application
-
-### For Interviewers  
-1. Select questions appropriate for the role level
-2. Use scenario-based questions to assess practical knowledge
-3. Refer to the detailed answers for evaluation criteria
-
-### For Students
-1. Start with fundamental questions in each topic
-2. Progress to more advanced scenarios
-3. Use the explanations to deepen your understanding
-
-## 🤝 Contributing
-
-We welcome contributions to expand this knowledge base! Here's how you can help:
-
-### Adding New Topics
-1. **Fork** this repository
-2. **Create** a new file following our naming convention: `[Topic Name] – Top [N] Interview Questions with Answers ([Year])`
-3. **Follow** the established format (see Active Directory file as reference)
-4. **Submit** a pull request with your additions
-
-### Improving Existing Content
-- Add more questions to existing topics
-- Improve answer clarity and accuracy
-- Add practical examples or commands
-- Fix typos or formatting issues
-
-### Content Guidelines
-- ✅ Use clear, concise language
-- ✅ Include practical examples where applicable  
-- ✅ Provide step-by-step solutions for complex scenarios
-- ✅ Use proper formatting with headers and bullet points
-- ✅ Ensure technical accuracy
-
-## 📁 Structure
+## 📁 Repository Structure
 
 ```
 Interview-Q-A/
-├── README.md                          # This file - repository overview
-├── [Topic] – Top N Questions...       # Individual topic files
-└── .git/                             # Git repository data
+├── Programming/           # Programming language specific Q&A
+├── System-Design/         # System design interview questions
+├── Data-Structures/       # Data structure related questions
+├── Algorithms/           # Algorithm problems and solutions
+├── Behavioral/           # Behavioral interview questions
+├── Company-Specific/     # Company-specific interview experiences
+├── Resources/           # Additional learning resources
+└── Templates/           # Question and answer templates
 ```
 
-### File Naming Convention
-```
-[Topic Name] – Top [Number] Interview Questions with Answers ([Year])
-```
+## 🎯 How to Use This Repository
 
-### Content Format
-Each topic file should include:
-- 📋 Topic overview and introduction
-- ❓ Numbered questions with detailed answers
-- 🛠️ Practical examples and commands
-- 📝 Scenario-based troubleshooting questions
-- 🔗 Relevant references or additional resources
+1. **Browse by Category**: Navigate to specific folders based on your preparation needs
+2. **Video Links**: Each Q&A file includes links to corresponding video explanations
+3. **Practice**: Use the questions for self-assessment and interview practice
+4. **Contribute**: Submit your own interview experiences (see Contributing section)
 
-## 🏁 Getting Started
+## 📝 Question Format
 
-1. **Clone** or **download** this repository
-   ```bash
-   git clone https://github.com/AutumHorizon/Interview-Q-A.git
-   ```
+Each question follows this structure:
+- **Question**: The interview question
+- **Difficulty Level**: Easy/Medium/Hard
+- **Company**: Where this was asked (if applicable)
+- **Video Link**: Link to explanation video
+- **Answer**: Detailed answer with code examples
+- **Follow-up Questions**: Common follow-ups
+- **Tips**: Interview tips and insights
 
-2. **Browse** the available topics based on your needs
+## 🤝 Contributing
 
-3. **Study** the questions and answers systematically  
+I welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+- Submitting new questions
+- Improving existing answers
+- Reporting issues
+- Code style guidelines
 
-4. **Practice** explaining concepts without referring to answers
+## 📚 Additional Resources
 
-5. **Contribute** by adding new questions or improving existing content
+- [Interview Preparation Checklist](Resources/preparation-checklist.md)
+- [Common Mistakes to Avoid](Resources/common-mistakes.md)
+- [Recommended Books and Courses](Resources/recommended-reading.md)
 
-## 📞 Contact
+## 🔗 Connect With Me
 
-- **Repository Owner**: AutumHorizon
-- **Issues**: [GitHub Issues](../../issues) for bug reports or content suggestions
-- **Pull Requests**: [GitHub PRs](../../pulls) for contributions
+- **YouTube**: [Channel Link] - Subscribe for interview tips and walkthroughs
+- **LinkedIn**: [Profile Link] - Connect for professional networking
+- **Website**: [Website Link] - More resources and blog posts
 
 ## 📄 License
 
-This repository is open source and available for educational purposes. Please respect the collaborative nature of this project and contribute back to the community.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⭐ Support
+
+If this repository helps you in your interview preparation:
+- Give it a ⭐ star
+- Share it with friends
+- Subscribe to my YouTube channel
+- Leave feedback in the issues section
 
 ---
 
-### 🌟 Star this repository if you find it helpful!
-
-**Happy Learning and Best of Luck with Your Interviews! 🎉**
+*Happy Learning and Best of Luck with Your Interviews!* 🚀

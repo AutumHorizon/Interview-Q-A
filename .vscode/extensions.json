@@ -1,0 +1,29 @@
+{
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "davidanson.vscode-markdownlint",
+        "ms-vscode.vscode-json",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "redhat.java",
+        "golang.go",
+        "ms-vscode.vscode-typescript-next",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ms-vscode.live-server",
+        "ritwickdey.liveserver",
+        "github.vscode-pull-request-github",
+        "ms-vscode.vscode-github-actions",
+        "eamodio.gitlens",
+        "formulahendry.code-runner",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode.remote-explorer",
+        "alefragnani.bookmarks",
+        "gruntfuggly.todo-tree",
+        "aaron-bond.better-comments",
+        "oderwat.indent-rainbow",
+        "christian-kohler.path-intellisense"
+    ]
+}

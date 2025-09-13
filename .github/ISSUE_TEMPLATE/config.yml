@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/AutumHorizon/Interview-Q-A/discussions
+    about: Ask questions, share experiences, or discuss interview preparation strategies
+  - name: 🎥 YouTube Channel
+    url: https://youtube.com/@AutumHorizon
+    about: Watch video explanations and subscribe for more interview content
+  - name: 🔗 LinkedIn
+    url: https://linkedin.com/in/AutumHorizon
+    about: Connect for professional networking and career discussions
