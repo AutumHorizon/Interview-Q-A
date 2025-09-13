@@ -12,7 +12,8 @@ A collection of commonly asked Active Directory interview questions and answers.
 
 ## ❓ What is Active Directory?
 **Answer:**
-Active Directory (AD) is Microsoft's directory service used to store, organize, and manage objects like users, computers, and resources in a Windows domain environment. It provides authentication, authorization, and centralized management.
+Active Directory (AD) is Microsoft's directory service used to store, organize, and manage objects like users,
+computers, and resources in a Windows domain environment. It provides authentication, authorization, and centralized management.
 
 ---
 
